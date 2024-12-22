@@ -1,0 +1,344 @@
+{
+  "Employees": [
+    {
+      "id": "d6d206e5-2ca4-443d-8404-dc05284e2d15",
+      "isRemoteWork": true,
+      "user_avatar": "/src/assets/images/character-1.jpg",
+      "first_name": "Nobis autem rerum vo",
+      "last_name": "Gray",
+      "first_native_name": "Lucas",
+      "last_native_name": "Gray",
+      "middle_native_name": "",
+      "department": "Fuga Numquam deseru",
+      "building": "Nostrum neque sint v",
+      "room": "Rerum deleniti fugia",
+      "date_birth": {
+        "year": 1901,
+        "month": 1,
+        "day": 1
+      },
+      "desk_number": 20,
+      "manager": "Maxime possimus ex ",
+      "phone": "+12931293129",
+      "email": "Eu at quam culpa qui",
+      "skype": "Optio neque irure i",
+      "cnumber": "C5336116",
+      "citizenship": "Fuga Sint quia neq",
+      "visa": {
+        "issuing_country": "Poland",
+        "type": "National visa type D",
+        "start_date": 1652158800000,
+        "end_date": 1683608400000
+      },
+      "firstName": "toko",
+      "fullName": "Quia non duis quaera",
+      "deskNumber": "Qui elit suscipit c",
+      "dateOfBirth": "Aliquip exercitation",
+      "mobilePhone": "Fugit quo beatae al",
+      "cNumber": "Illo est et delectus",
+      "visaOne": "Et nostrum tempore ",
+      "visaExpired": "Quod cum cillum occa",
+      "visaTwo": "Officia quasi quis e",
+      "visaTwoValidity": "Quibusdam sit ea fug",
+      "first_Name": "Occaecat dolores eum"
+    },
+    {
+      "id": "8c91b1c9-8dd6-4820-8fc3-0ab55106618f",
+      "isRemoteWork": true,
+      "user_avatar": "/src/assets/images/character-2.jpg",
+      "first_name": "Mia",
+      "last_name": "Clarke",
+      "first_native_name": "Mia",
+      "last_native_name": "Clarke",
+      "middle_native_name": "",
+      "department": "Cumque nostrud delec",
+      "building": "Quae anim dolore omn",
+      "room": "Aute ea qui quibusda",
+      "date_birth": {
+        "year": 1901,
+        "month": 1,
+        "day": 1
+      },
+      "desk_number": 20,
+      "manager": "Vel harum mollit har",
+      "phone": "+12931293129",
+      "email": "Labore id temporibus",
+      "skype": "Perspiciatis quaera",
+      "cnumber": "C5336116",
+      "citizenship": "Ut nobis in consequa",
+      "visa": {
+        "issuing_country": "Poland",
+        "type": "National visa type D",
+        "start_date": 1652158800000,
+        "end_date": 1683608400000
+      },
+      "firstName": "Quis alias maiores n",
+      "fullName": "Voluptatum sed offic",
+      "deskNumber": "Beatae laboriosam c",
+      "dateOfBirth": "Ducimus dignissimos",
+      "mobilePhone": "Pariatur Sunt saep",
+      "cNumber": "Corporis et hic omni",
+      "visaOne": "Est voluptatibus ut ",
+      "visaExpired": "Anim quis perspiciat",
+      "visaTwo": "Sit delectus blandi",
+      "visaTwoValidity": "Sed quia qui ducimus"
+    },
+    {
+      "id": "a1cf17bb-9b6e-4feb-a1ca-a7863e718431",
+      "isRemoteWork": true,
+      "user_avatar": "/src/assets/images/character-3.jpg",
+      "first_name": "Oliver",
+      "last_name": "Green",
+      "first_native_name": "Oliver",
+      "last_native_name": "Green",
+      "middle_native_name": "",
+      "department": "Web & Mobile",
+      "building": "Pilsudskiego 69 (Poland)",
+      "room": "1404",
+      "date_birth": {
+        "year": 1901,
+        "month": 1,
+        "day": 1
+      },
+      "desk_number": 20,
+      "manager": {
+        "id": "461fa62b-9215-4471-b67e-eb7963a41d8c",
+        "first_name": "John",
+        "last_name": "Snow"
+      },
+      "phone": "+12931293129",
+      "email": "Oliver.Green@leverx.com",
+      "skype": "live:.cid.21asd41jd1m132",
+      "cnumber": "C5336116",
+      "citizenship": "Georgia",
+      "visa": {
+        "issuing_country": "Poland",
+        "type": "National visa type D",
+        "start_date": 1652158800000,
+        "end_date": 1683608400000
+      }
+    },
+    {
+      "id": "e3173b97-8ff8-4b06-9cac-616d4086edc9",
+      "isRemoteWork": true,
+      "user_avatar": "/src/assets/images/character-4.jpg",
+      "first_name": "Chloe",
+      "last_name": "Adams",
+      "first_native_name": "Chloe",
+      "last_native_name": "Adams",
+      "middle_native_name": "",
+      "department": "Web & Mobile",
+      "building": "Pilsudskiego 69 (Poland)",
+      "room": "1404",
+      "date_birth": {
+        "year": 1901,
+        "month": 1,
+        "day": 1
+      },
+      "desk_number": 20,
+      "manager": {
+        "id": "2e86b07e-b855-4cdf-b26a-7d942e9f0b81",
+        "first_name": "John",
+        "last_name": "Snow"
+      },
+      "phone": "+12931293129",
+      "email": "chloe.adams@leverx.com",
+      "skype": "live:.cid.21asd41jd1m132",
+      "cnumber": "C5336116",
+      "citizenship": "Georgia",
+      "visa": {
+        "issuing_country": "Poland",
+        "type": "National visa type D",
+        "start_date": 1652158800000,
+        "end_date": 1683608400000
+      }
+    },
+    {
+      "id": "ad5b83d3-6a80-403f-a93e-9f4ba3d889ee",
+      "isRemoteWork": true,
+      "user_avatar": "/src/assets/images/character-5.jpg",
+      "first_name": "Ethan",
+      "last_name": "Robinson",
+      "first_native_name": "Ethan",
+      "last_native_name": "Robinson",
+      "middle_native_name": "",
+      "department": "Web & Mobile",
+      "building": "Pilsudskiego 69 (Poland)",
+      "room": "1404",
+      "date_birth": {
+        "year": 1901,
+        "month": 1,
+        "day": 1
+      },
+      "desk_number": 20,
+      "manager": "John",
+      "phone": "+12931293129",
+      "email": "ethan.robinson@leverx.com",
+      "skype": "live:.cid.21asd41jd1m132",
+      "cnumber": "C5336116",
+      "citizenship": "Georgia",
+      "visa": {
+        "issuing_country": "Poland",
+        "type": "National visa type D",
+        "start_date": 1652158800000,
+        "end_date": 1683608400000
+      },
+      "firstName": "Ethan",
+      "fullName": "Ethan Robinson",
+      "deskNumber": 20,
+      "dateOfBirth": "1 1 1901",
+      "mobilePhone": "+12931293129",
+      "cNumber": "C5336116",
+      "visaOne": "National visa type D",
+      "visaExpired": "5/10/2022",
+      "visaTwo": "National visa type D",
+      "visaTwoValidity": "5/9/2023"
+    },
+    {
+      "id": "1d488b56-637f-4473-9e58-364b6421bce4",
+      "isRemoteWork": true,
+      "user_avatar": "/src/assets/images/character-6.jpg",
+      "first_name": "Lily",
+      "last_name": "Harris",
+      "first_native_name": "Lily",
+      "last_native_name": "Harris",
+      "middle_native_name": "",
+      "department": "Web & Mobile",
+      "building": "Pilsudskiego 69 (Poland)",
+      "room": "1404",
+      "date_birth": {
+        "year": 1901,
+        "month": 1,
+        "day": 1
+      },
+      "desk_number": 20,
+      "manager": {
+        "id": "749d3258-233f-448e-8976-70071940d446",
+        "first_name": "John",
+        "last_name": "Snow"
+      },
+      "phone": "+12931293129",
+      "email": "lily.harris@leverx.com",
+      "skype": "live:.cid.21asd41jd1m132",
+      "cnumber": "C5336116",
+      "citizenship": "Georgia",
+      "visa": {
+        "issuing_country": "Poland",
+        "type": "National visa type D",
+        "start_date": 1652158800000,
+        "end_date": 1683608400000
+      }
+    },
+    {
+      "id": "11345184-1f82-4261-ba2f-eb222d8b611b",
+      "isRemoteWork": true,
+      "user_avatar": "/src/assets/images/character-7.jpg",
+      "first_name": "Samuel",
+      "last_name": "Carter",
+      "first_native_name": "Samuel",
+      "last_native_name": "Carter",
+      "middle_native_name": "",
+      "department": "Web & Mobile",
+      "building": "Pilsudskiego 69 (Poland)",
+      "room": "1404",
+      "date_birth": {
+        "year": 1901,
+        "month": 1,
+        "day": 1
+      },
+      "desk_number": 20,
+      "manager": {
+        "id": "84300169-1ab3-4e4a-b581-d0e36e94de2f",
+        "first_name": "John",
+        "last_name": "Snow"
+      },
+      "phone": "+12931293129",
+      "email": "samuel.carter@leverx.com",
+      "skype": "live:.cid.21asd41jd1m132",
+      "cnumber": "C5336116",
+      "citizenship": "Georgia",
+      "visa": {
+        "issuing_country": "Poland",
+        "type": "National visa type D",
+        "start_date": 1652158800000,
+        "end_date": 1683608400000
+      }
+    },
+    {
+      "id": "c2219546-3746-4c2d-80d9-0cec26f31844",
+      "isRemoteWork": true,
+      "user_avatar": "/src/assets/images/character-8.jpg",
+      "first_name": "Eva",
+      "last_name": "Martinez",
+      "first_native_name": "Eva",
+      "last_native_name": "Martinez",
+      "middle_native_name": "",
+      "department": "In esse ullam praes",
+      "building": "Consectetur qui eius",
+      "room": "Aliquip sed accusant",
+      "date_birth": {
+        "year": 1901,
+        "month": 1,
+        "day": 1
+      },
+      "desk_number": 20,
+      "manager": "Ut possimus illum ",
+      "phone": "+12931293129",
+      "email": "Saepe est anim labor",
+      "skype": "Vel assumenda simili",
+      "cnumber": "C5336116",
+      "citizenship": "Autem voluptatem Ex",
+      "visa": {
+        "issuing_country": "Poland",
+        "type": "National visa type D",
+        "start_date": 1652158800000,
+        "end_date": 1683608400000
+      },
+      "firstName": "Pariatur Eum velit ",
+      "fullName": "Sed aperiam consequa",
+      "deskNumber": "Laborum cillum perfe",
+      "dateOfBirth": "Est aut assumenda do",
+      "mobilePhone": "Natus in facilis qua",
+      "cNumber": "In aliqua Officiis ",
+      "visaOne": "Et ea illo delectus",
+      "visaExpired": "Reiciendis adipisici",
+      "visaTwo": "Sunt et eu providen",
+      "visaTwoValidity": "Reprehenderit quis "
+    },
+    {
+      "id": "35833bac-af8b-47ec-8fd5-27c0606dcb88",
+      "isRemoteWork": true,
+      "user_avatar": "/src/assets/images/character-9.jpg",
+      "first_name": "Jack",
+      "last_name": "Wilson",
+      "first_native_name": "Jack",
+      "last_native_name": "Wilson",
+      "middle_native_name": "",
+      "department": "Web & Mobile",
+      "building": "Pilsudskiego 69 (Poland)",
+      "room": "1404",
+      "date_birth": {
+        "year": 1901,
+        "month": 1,
+        "day": 1
+      },
+      "desk_number": 20,
+      "manager": {
+        "id": "5caa382e-ebcf-4d40-a0f3-42dfb1f43ce6",
+        "first_name": "John",
+        "last_name": "Snow"
+      },
+      "phone": "+12931293129",
+      "email": "jack.wilson@leverx.com",
+      "skype": "live:.cid.21asd41jd1m132",
+      "cnumber": "C5336116",
+      "citizenship": "Georgia",
+      "visa": {
+        "issuing_country": "Poland",
+        "type": "National visa type D",
+        "start_date": 1652158800000,
+        "end_date": 1683608400000
+      }
+    }
+  ]
+}
