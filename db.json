@@ -3,7 +3,7 @@
     {
       "id": "d6d206e5-2ca4-443d-8404-dc05284e2d15",
       "isRemoteWork": true,
-      "user_avatar": "/src/assets/images/character-1.jpg",
+      "user_avatar": "/public/assets/images/character-1.jpg",
       "first_name": "Nobis autem rerum vo",
       "last_name": "Gray",
       "first_native_name": "Lucas",
@@ -45,7 +45,7 @@
     {
       "id": "8c91b1c9-8dd6-4820-8fc3-0ab55106618f",
       "isRemoteWork": true,
-      "user_avatar": "/src/assets/images/character-2.jpg",
+      "user_avatar": "/public/assets/images/character-2.jpg",
       "first_name": "Mia",
       "last_name": "Clarke",
       "first_native_name": "Mia",
@@ -86,7 +86,7 @@
     {
       "id": "a1cf17bb-9b6e-4feb-a1ca-a7863e718431",
       "isRemoteWork": true,
-      "user_avatar": "/src/assets/images/character-3.jpg",
+      "user_avatar": "/public/assets/images/character-3.jpg",
       "first_name": "Oliver",
       "last_name": "Green",
       "first_native_name": "Oliver",
@@ -121,7 +121,7 @@
     {
       "id": "e3173b97-8ff8-4b06-9cac-616d4086edc9",
       "isRemoteWork": true,
-      "user_avatar": "/src/assets/images/character-4.jpg",
+      "user_avatar": "/public/assets/images/character-4.jpg",
       "first_name": "Chloe",
       "last_name": "Adams",
       "first_native_name": "Chloe",
@@ -156,7 +156,7 @@
     {
       "id": "ad5b83d3-6a80-403f-a93e-9f4ba3d889ee",
       "isRemoteWork": true,
-      "user_avatar": "/src/assets/images/character-5.jpg",
+      "user_avatar": "/public/assets/images/character-5.jpg",
       "first_name": "Ethan",
       "last_name": "Robinson",
       "first_native_name": "Ethan",
@@ -197,7 +197,7 @@
     {
       "id": "1d488b56-637f-4473-9e58-364b6421bce4",
       "isRemoteWork": true,
-      "user_avatar": "/src/assets/images/character-6.jpg",
+      "user_avatar": "/public/assets/images/character-6.jpg",
       "first_name": "Lily",
       "last_name": "Harris",
       "first_native_name": "Lily",
@@ -232,7 +232,7 @@
     {
       "id": "11345184-1f82-4261-ba2f-eb222d8b611b",
       "isRemoteWork": true,
-      "user_avatar": "/src/assets/images/character-7.jpg",
+      "user_avatar": "/public/assets/images/character-7.jpg",
       "first_name": "Samuel",
       "last_name": "Carter",
       "first_native_name": "Samuel",
@@ -267,7 +267,7 @@
     {
       "id": "c2219546-3746-4c2d-80d9-0cec26f31844",
       "isRemoteWork": true,
-      "user_avatar": "/src/assets/images/character-8.jpg",
+      "user_avatar": "/public/assets/images/character-8.jpg",
       "first_name": "Eva",
       "last_name": "Martinez",
       "first_native_name": "Eva",
@@ -308,7 +308,7 @@
     {
       "id": "35833bac-af8b-47ec-8fd5-27c0606dcb88",
       "isRemoteWork": true,
-      "user_avatar": "/src/assets/images/character-9.jpg",
+      "user_avatar": "/public/assets/images/character-9.jpg",
       "first_name": "Jack",
       "last_name": "Wilson",
       "first_native_name": "Jack",
@@ -336,6 +336,117 @@
       "visa": {
         "issuing_country": "Poland",
         "type": "National visa type D",
+        "start_date": 1652158800000,
+        "end_date": 1683608400000
+      }
+    },
+    {
+      "username": "cusyky",
+      "password": "Pa$$w0rd!",
+      "id": "877d99b5-d692-403b-8880-5539a3b83906",
+      "isRemoteWork": false,
+      "user_avatar": "/public/assets/images/custom-user-image.png",
+      "first_name": "Lesley",
+      "last_name": "Pruitt",
+      "first_native_name": "Luffy",
+      "last_native_name": "Monkey",
+      "middle_native_name": "D",
+      "department": "Web & Mobile",
+      "building": "Pilsudskiego 69 (Poland)",
+      "room": "1404",
+      "date_birth": {
+        "year": 1994,
+        "month": 7,
+        "day": 12
+      },
+      "desk_number": "27",
+      "manager": {
+        "id": "4ba97206-644a-4ae7-a7c0-890b76a7b67a1",
+        "first_name": "John",
+        "last_name": "Snow"
+      },
+      "phone": "+9955499471",
+      "email": "carymih@mailinator.com",
+      "skype": "luffyleverX",
+      "cnumber": "1618",
+      "citizenship": "Findland",
+      "visa": {
+        "issuing_country": "Georgia",
+        "type": "National",
+        "start_date": 1652158800000,
+        "end_date": 1683608400000
+      }
+    },
+    {
+      "username": "toko",
+      "password": "toko",
+      "id": "b5b47aaf-2e29-414d-9c49-affef3290bff",
+      "isRemoteWork": false,
+      "user_avatar": "/public/assets/images/custom-user-image.png",
+      "first_name": "Aretha",
+      "last_name": "Crane",
+      "first_native_name": "Luffy",
+      "last_native_name": "Monkey",
+      "middle_native_name": "D",
+      "department": "Web & Mobile",
+      "building": "Pilsudskiego 69 (Poland)",
+      "room": "1404",
+      "date_birth": {
+        "year": 1994,
+        "month": 7,
+        "day": 12
+      },
+      "desk_number": "27",
+      "manager": {
+        "id": "1b4ed964-1441-4409-aeb6-6ba47ceb35391",
+        "first_name": "John",
+        "last_name": "Snow"
+      },
+      "phone": "+9955499471",
+      "email": "jiweni@mailinator.com",
+      "skype": "luffyleverX",
+      "cnumber": "1618",
+      "citizenship": "Findland",
+      "visa": {
+        "issuing_country": "Georgia",
+        "type": "National",
+        "start_date": 1652158800000,
+        "end_date": 1683608400000
+      }
+    },
+    {
+      "username": "toko1",
+      "password": "toko",
+      "id": "ad7fffb9-6664-420a-acdc-ad116ef39c3e",
+      "isRemoteWork": false,
+      "user_avatar": "/public/assets/images/custom-user-image.png",
+      "first_name": "Melissa",
+      "last_name": "Pugh",
+      "first_native_name": "Luffy",
+      "last_native_name": "Monkey",
+      "middle_native_name": "D",
+      "department": "Web & Mobile",
+      "building": "Pilsudskiego 69 (Poland)",
+      "room": "1404",
+      "date_birth": {
+        "year": 1994,
+        "month": 7,
+        "day": 12
+      },
+      "desk_number": "27",
+      "manager": {
+        "id": "6cd618df-8a8f-426a-8b13-5f2a6aa085671",
+        "first_name": "John",
+        "last_name": "Snow"
+      },
+      "phone": "+9955499471",
+      "email": "toko@a.com",
+      "skype": "luffyleverX",
+      "cnumber": "1618",
+      "citizenship": "Findland",
+      "visa": {
+        "issuing_country": "Georgia",
+        "type": "National",
         "start_date": 1652158800000,
         "end_date": 1683608400000
       }
